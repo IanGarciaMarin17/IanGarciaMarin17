@@ -12,7 +12,7 @@ additional i like to practice:
 ## <img src="assets/androide.png" width="40" height="40" /> Technologies
 
 <p align="left">
-    <img src="assets/typescript.png" alt="Typescript" width="50" height="50" style="margin-right: 10px"/>
+    <img src="assets/typescript.png" alt="Typescript" width="50" height="50" style="margin-right: 20px"/>
     <img src="assets/javascript.png" alt="Javascript" width="50" height="50" style="margin-right: 10px"/>
     <img src="assets/nodejs.png" alt="Nodejs" width="50" height="50" style="margin-right: 10px"/>
     <img src="assets/java.png" alt="Java" width="50" height="50" style="margin-right: 10px"/>
