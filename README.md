@@ -1,5 +1,4 @@
 ## Hello, I'm William García Marin 👋🏻
-___
 
 ## About Me
 
@@ -9,7 +8,6 @@ additional i like to practice:
 ⚽️ Football
 🥊 Box
 🎮 Gaming
-___
 
 ## 🚀 Technologies
 
