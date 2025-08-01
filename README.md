@@ -20,7 +20,7 @@ additional i like to practice:
     <img src="assets/html.png" alt="Html" width="50" height="50" style="margin-right: 10px; border-radius: 10px"/>
     <img src="assets/css.png" alt="Css" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
     <img src="assets/react.png" alt="React" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
-    <img src="assets/angular.png" alt="Angular" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
+    <img src="assets/angular.png" alt="Angular" width="50" height="50" style="margin-right: 10px; border-radius: 15px"/>
     <img src="assets/git.png" alt="Git" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
     <img src="assets/aws.png" alt="Aws" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
     <img src="assets/php.png" alt="Php" width="50" height="50" style="margin-right: 10px; border-radius: 5px"/>
