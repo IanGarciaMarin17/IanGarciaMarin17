@@ -10,7 +10,7 @@ additional i like to practice:
 🎮 Gaming  
 
 ## 🚀 Technologies
-<img src="assets/typescript.png" alt="Typescript" width="30" height="30" style="margin-right: 10px"/>  
+<img src="assets/typescript.png" alt="Typescript" width="30" height="30" style="margin-right: 10px"/>
 <img src="assets/javascript.png" alt="Javascript" width="30" height="30" style="margin-right: 10px"/>
 <img src="assets/nodejs.png" alt="Nodejs" width="30" height="30" style="margin-right: 10px"/>
 <img src="assets/java.png" alt="Java" width="30" height="30" style="margin-right: 10px"/>
