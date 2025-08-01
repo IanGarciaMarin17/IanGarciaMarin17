@@ -9,7 +9,7 @@ additional i like to practice:
 🥊 Box  
 🎮 Gaming
 
-## <img src="assets/codigo-binario.png" width="20" height="20"> Technologies
+## <img src="assets/androide.png" width="40" height="40" /> Technologies
 
 <p align="left">
     <img src="assets/typescript.png" alt="Typescript" width="30" height="30" style="margin-right: 10px"/>
