@@ -1,9 +1,16 @@
-## Hola, soy William García Marin
+## Hello, I'm William García Marin 👋🏻
+___
 
-💻 Desarrollador full-stack apasionado por crear soluciones digitales que generan impacto.
+## About Me
 
-## 🚀 Tecnologías que uso
-- Java / Spring Boot
-- Angular / TypeScript
-- Node.js / React
-- Git / Docker / AWS
+I am passionate about technology and software development 💻, 
+additional i like to practice:
+
+⚽️ Football
+🥊 Box
+🎮 Gaming
+___
+
+## 🚀 Technologies
+
+
