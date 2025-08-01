@@ -5,9 +5,9 @@
 I am passionate about technology and software development 💻, 
 additional i like to practice:
 
-⚽️ Football
-🥊 Box
-🎮 Gaming
+⚽️ Football.
+🥊 Box.
+🎮 Gaming.
 
 ## 🚀 Technologies
 
